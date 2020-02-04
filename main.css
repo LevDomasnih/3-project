@@ -213,8 +213,8 @@ body{
     height: 120px;
     background-color: white;
     float: left;
-    position: absolute;
-    top: 48%;
+    position: relative;
+    top: 35%;
     left: 50%;
     margin: -460px 0 0 -500px;
 }
